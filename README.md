@@ -1,2 +1,2 @@
 # Contact-Keeper
-Developing a full stack contact keeping application using Node.js and React.
+Contact Keeper application with front and backend developed. Backend created with Node.js, express and MongoDB. FrontEnd created with React using Hooks and Context.
