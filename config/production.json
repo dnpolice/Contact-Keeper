@@ -1,4 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://dnpolice:dnp789789@contactbook.obbge.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "secret"
-}
